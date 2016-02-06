@@ -4,7 +4,7 @@ This repository is aimed at writing and compiling some simple programs to unders
 
 The programs have been written using CUDA-6.0 and above.
 
-To compile on MAC OS X, use: /Developer/NVIDIA/CUDA-6.0/bin/nvcc <FILENAME>
+To compile on MAC OS X, use: /Developer/NVIDIA/CUDA-6.0/bin/nvcc FILENAME
 
 To contribute:
 
